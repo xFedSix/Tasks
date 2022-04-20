@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.first{
+    background-image: url(../Task3/images/laptop.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: 3% 25%;
+    border: 3px solid gray;
+    border-radius: 20px 0;
+    width: 900px;
+    height: 350px;
+    margin: auto;
+    margin-bottom: 15px;
+}   
+.second{
+    background-image: url(../Task3/images/phone.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: 3% 25%;
+    border: 3px dashed gray;
+    border-radius: 20px 0;
+    width: 900px;
+    height: 350px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+body{
+    background-image: url(../Task3/images/background-big.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+header{
+    background-color: rgba(128, 128, 128, 0.445);
+    width: 900px;
+    height: 45px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+p{
+    width: 850px;
+    padding: 15px;
+    margin-top: 200px;
+
+}
+
+h2{
+    color: orange;
+    text-align: center;
+    margin-top: 10px;
+}
+a{
+    color: red;
+    text-decoration: none;
+    padding-left: 85%;
+}
+
