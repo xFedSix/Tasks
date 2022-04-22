@@ -1,0 +1,24 @@
+*, *::after, *::before{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ 
+}
+body {
+    background-image: url(front-end.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.links {
+    margin: 25% 25%;
+}
+.links a{
+    color: black;
+    border: 2px solid rgb(93, 78, 235);
+    border-radius: 10px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: cyan;
+    padding: 10px;
+   
+}
