@@ -5,13 +5,10 @@
     font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .container {
-    max-width: 1046px;
-    margin: auto;
-}
-.container2 {
     max-width: 1175px;
     margin: auto;
 }
+
 header {
     background: url(../Task4-2/images/sky.jpg);
     background-size:cover;
@@ -19,6 +16,9 @@ header {
 }
 main {
     margin-left: 125px;
+}
+.head {
+    margin-left: 65px;
 }
 h1 {
     padding-top: 100px;
