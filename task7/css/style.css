@@ -1,0 +1,95 @@
+*, *::after, *::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1080gitpx;
+    margin: 0 auto;
+    
+}
+body {
+    font-family: 'Montserrat';
+    background-image: url(../images/Background.png);
+}
+.sky1 {
+    position: absolute;
+    Left: -230px;
+    Top: 165px;
+    opacity: 0.3686274509803922;
+}
+.sky1 img {
+    width: 592px;
+    height: 188px;
+}
+.sky2 {
+    position: absolute;
+    Left: 100px;
+    Top: 376px;
+    opacity: 0.3686274509803922;
+
+}
+
+.sky2 img {
+    width: 213px;
+    height: 141px;
+}
+.sky3 img {
+    width: 582px;
+    height: 188px;
+}
+.sky3 {
+    position: absolute;
+    Left: 635px;
+    Top: 329px;
+    opacity: 0.3686274509803922;
+}
+.sky4 img {
+    width: 280px;
+    height: 158px;
+}
+.sky4 {
+    position: absolute;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    transform: translate(50%, -50%);
+}
+p, h1, h2 {
+    color: white;
+    margin: 15px 80px;
+    font-size: 20px;
+}
+h1 {
+    padding: 40px 0 20px 0;
+}
+h2 {
+    padding: 20px 0;
+}
+p {
+    padding-bottom: 10px;
+}
+.text {
+    background-color: rgba(15, 23, 50, 0.637);
+    position:relative;
+    bottom: -110px;
+    margin-top: 150px;
+    z-index: -1;
+}
+.img {
+    margin-top: 100px;
+}
+.img p {
+  text-align: center;
+  padding-bottom: 110px;
+}
+img {
+    padding: 20px;
+    
+}
+footer {
+    height: 150px;
+    background-image: url(../images/grass.png);
+    background-size: contain;
+}
