@@ -91,4 +91,5 @@ footer {
     height: 150px;
     background-image: url(../images/grass.png);
     background-size: contain;
+    padding: 0;
 }
